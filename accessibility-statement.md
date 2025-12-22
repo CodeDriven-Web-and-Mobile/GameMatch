@@ -50,7 +50,7 @@ Upcoming improvements include expanded support for high-contrast themes, improve
 If you encounter accessibility barriers or need assistance using Game Match:
 
 > Email: **accessibility@gamematch.app**  
-> Alternate: **support@gamematch.app**
+> Alternate: **nallataifeh@gmail.com**
 
 Please include device type, OS version, and a description of the issue. We aim to acknowledge reports within **2 business days** and provide updates within **10 business days**.
 

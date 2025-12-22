@@ -1,8 +1,8 @@
 # Game Match Privacy Policy
 
-_Last updated: December 14, 2025_
+_Last updated: December 22, 2025_
 
-Game Match ("the App," "we," "us," or "our") helps players discover, organize, and join games at local venues. We are committed to protecting your privacy and being transparent about the information we collect, how we use it, and the choices available to you.
+Game Match ("the App," "we," "us," or "our") helps players discover, organize, and join games and tournaments at local venues. We are committed to protecting your privacy and being transparent about the information we collect, how we use it, and the choices available to you.
 
 By using the App, you agree to the practices described in this Privacy Policy. If you do not agree, please discontinue use of the App.
 
@@ -12,7 +12,8 @@ By using the App, you agree to the practices described in this Privacy Policy. I
 
 ### 1.1 Information you provide directly
 - **Account details:** Name, email address, password (stored using Firebase Authentication), and optional profile fields such as skill level, preferred court type, and biography.
-- **Booking and gameplay details:** Game sessions you create or join, waitlist participation, ratings, reviews, and in-app messages or feedback submitted through support forms.
+- **Booking, tournament, and gameplay details:** Game sessions you create or join, tournament registrations, waitlist participation, ratings, reviews, and in-app messages or feedback submitted through support forms.
+- **Coupon information (if used):** Coupon codes you enter during checkout and the discount amount applied to your booking or tournament registration.
 - **Media uploads:** Optional profile images or attachments you choose to upload.
 
 ### 1.2 Information collected automatically
@@ -75,7 +76,7 @@ Depending on your jurisdiction, you may have rights to:
 - Opt out of non-essential analytics or marketing communications.
 - Port your data in a structured, commonly used format.
 
-To exercise these rights, adjust your in-app settings or contact us at **support@gamematch.app**. We will respond within the timeframe required by applicable law.
+To exercise these rights, adjust your in-app settings or contact us at **nallataifeh@gmail.com**. We will respond within the timeframe required by applicable law.
 
 ### Push notifications
 You can disable push notifications at any time through your device settings. Doing so may impact reminders about upcoming games or waitlist movement.
@@ -99,7 +100,7 @@ We may update this Privacy Policy from time to time. When we make material chang
 If you have questions or concerns about this Privacy Policy or our data practices, please contact us at:
 
 > Game Match Privacy Team  
-> Email: **support@gamematch.app**
+> Email: **nallataifeh@gmail.com**
 
 ---
 

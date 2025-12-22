@@ -1,6 +1,6 @@
 # Game Match Account & Data Deletion Policy
 
-_Last updated: December 14, 2025_
+_Last updated: December 22, 2025_
 
 This Account & Data Deletion Policy explains how Game Match ("we," "us," or "our") handles account closure requests and personal data deletion within the Game Match mobile and web application (the "App"). It supplements our [Privacy Policy](privacy-policy.html) and complies with Google Play requirements for account and data deletion.
 
@@ -10,14 +10,14 @@ This Account & Data Deletion Policy explains how Game Match ("we," "us," or "our
 You can request account deletion in either of the following ways:
 
 1. **In-App:** Navigate to **Settings ▸ Account ▸ Delete Account** and follow the prompts. You will be asked to confirm your choice before we proceed.
-2. **Email:** Send a deletion request to **support@gamematch.app** from the email address associated with your account. Include your full name and any relevant booking IDs so we can verify ownership.
+2. **Email:** Send a deletion request to **nallataifeh@gmail.com** from the email address associated with your account. Include your full name and any relevant booking IDs so we can verify ownership.
 
 We may ask for additional verification to protect you from unauthorized deletion requests.
 
 ---
 
 ## 2. What Happens When You Delete Your Account
-- Your profile information, authentication credentials, and associated session participation history are queued for deletion from Firebase Authentication and Cloud Firestore.
+- Your profile information, authentication credentials, and associated participation history are queued for deletion from Firebase Authentication and Cloud Firestore. This includes game bookings, waitlist entries, tournament registrations, and coupon redemption history associated with your account.
 - You lose access to upcoming bookings, waitlists, and saved preferences.
 - Push notification tokens are revoked, and you will no longer receive notifications.
 - Any promotional credits or app balances are forfeited unless legally required otherwise.
@@ -47,7 +47,7 @@ Once deletion is complete, the process is irreversible. If you wish to use Game 
 ---
 
 ## 6. Data Download Requests
-Before requesting deletion, you may request a copy of your account information by emailing **support@gamematch.app**. We will provide a machine-readable export of available data within a reasonable timeframe.
+Before requesting deletion, you may request a copy of your account information by emailing **nallataifeh@gmail.com**. We will provide a machine-readable export of available data within a reasonable timeframe.
 
 ---
 
@@ -60,7 +60,7 @@ We may update this policy to reflect changes in our services or legal requiremen
 For questions about account deletion or data retention, contact:
 
 > Game Match Privacy Team  
-> Email: **support@gamematch.app**
+> Email: **nallataifeh@gmail.com**
 
 ---
 

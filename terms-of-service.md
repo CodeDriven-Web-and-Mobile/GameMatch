@@ -1,13 +1,13 @@
 # Game Match Terms of Service
 
-_Last updated: December 14, 2025_
+_Last updated: December 22, 2025_
 
 These Terms of Service (the "Terms") govern your access to and use of the Game Match mobile and web application and related services (collectively, the "App"). By creating an account or using the App, you agree to be bound by these Terms. If you do not agree, do not use the App.
 
 ---
 
 ## 1. Who We Are
-Game Match ("Game Match," "we," "us," or "our") provides tools for players and organizers to discover venues, create and manage games, join waitlists, process reservations, and communicate with other participants.
+Game Match ("Game Match," "we," "us," or "our") provides tools for players and organizers to discover venues, create and manage games and tournaments, join waitlists, process reservations/registrations, and communicate with other participants.
 
 ---
 
@@ -18,7 +18,7 @@ You must be at least 16 years old (or the minimum age of digital consent in your
 
 ## 3. Account Registration & Security
 - You are responsible for maintaining the confidentiality of your login credentials and for all activity that occurs under your account.
-- Notify us immediately at **support@gamematch.app** if you suspect any unauthorized use of your account.
+- Notify us immediately at **nallataifeh@gmail.com** if you suspect any unauthorized use of your account.
 - We may suspend or terminate accounts that violate these Terms or present security risks.
 
 ---
@@ -28,6 +28,11 @@ You must be at least 16 years old (or the minimum age of digital consent in your
 - Players may join games, waitlists, or request bookings. Acceptance is not guaranteed and may depend on organizer approval, payment status, or waitlist order.
 - Organizers are solely responsible for honoring reservations, communicating changes, and ensuring venue readiness.
 - Players must arrive on time, follow organizer instructions, and comply with venue rules.
+
+### Tournament Registrations
+- Organizers may create tournaments with registration rules, deadlines, pricing, and formats (e.g., singles or team).
+- Players may register for tournaments subject to eligibility requirements, capacity limits, and payment status.
+- A registration may be created in a **Pending Payment** state and is not confirmed until payment is completed.
 
 ### Cancellations & No-Shows
 - Organizers may set cancellation windows or penalties within the App. Review session details before booking.
@@ -40,6 +45,12 @@ You must be at least 16 years old (or the minimum age of digital consent in your
 - You authorize the payment processor to charge your selected payment method for all fees disclosed at checkout.
 - Refund eligibility is determined by organizer policies, venue rules, and applicable law. Processing times may vary.
 - Chargebacks or payment disputes may result in suspension of your account until resolved.
+
+### Coupons, Discounts, and Credits
+- Coupons, when available, must be applied **before payment**.
+- Unless explicitly stated otherwise, coupons must be **assigned to your account** and may be limited by expiry date and remaining uses.
+- Coupons reduce the price you pay but are not redeemable for cash.
+- Game Match may provide **in-app credits** (e.g., for eligible cancellations). Credits are non-transferable and not redeemable for cash unless required by law.
 
 ---
 
@@ -92,7 +103,7 @@ You agree to indemnify and hold harmless Game Match, its officers, directors, em
 ---
 
 ## 13. Termination
-We may suspend or terminate your access to the App at any time for any reason, including violations of these Terms or suspected fraudulent activity. You may delete your account at any time through in-app settings or by contacting **support@gamematch.app**. Upon termination, sections that by their nature should survive (e.g., ownership, disclaimers, limitation of liability, indemnification) will remain in effect.
+We may suspend or terminate your access to the App at any time for any reason, including violations of these Terms or suspected fraudulent activity. You may delete your account at any time through in-app settings or by contacting **nallataifeh@gmail.com**. Upon termination, sections that by their nature should survive (e.g., ownership, disclaimers, limitation of liability, indemnification) will remain in effect.
 
 ---
 
@@ -110,7 +121,7 @@ These Terms are governed by the laws of the jurisdiction where Game Match is hea
 If you have questions about these Terms, please contact us at:
 
 > Game Match Legal Team  
-> Email: **support@gamematch.app**
+> Email: **nallataifeh@gmail.com**
 
 ---
 

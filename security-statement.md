@@ -55,7 +55,7 @@ At Game Match, protecting user data and maintaining a secure environment are top
 ## 8. User Responsibilities
 - Use strong, unique passwords and enable device-level security (PIN, biometrics).
 - Keep your device’s operating system and the Game Match app up to date.
-- Report suspected security issues immediately to **security@gamematch.app** or **support@gamematch.app**.
+- Report suspected security issues immediately to **security@gamematch.app** or **nallataifeh@gmail.com**.
 
 ---
 

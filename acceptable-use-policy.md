@@ -1,8 +1,8 @@
 # Game Match Acceptable Use & Community Guidelines
 
-_Last updated: December 14, 2025_
+_Last updated: December 22, 2025_
 
-Game Match is designed to help players discover, organize, and enjoy sports together. To keep our community safe, respectful, and productive, all users must follow these Acceptable Use & Community Guidelines. These rules apply to all features, including messaging, reviews, waitlists, bookings, and support channels.
+Game Match is designed to help players discover, organize, and enjoy sports together. To keep our community safe, respectful, and productive, all users must follow these Acceptable Use & Community Guidelines. These rules apply to all features, including messaging, reviews, waitlists, bookings, tournament registrations, coupons, and support channels.
 
 ---
 
@@ -26,6 +26,15 @@ You may not engage in any of the following:
 - Creating fake accounts or impersonating others.
 - False claims about skill level, player counts, or session details.
 - Attempting to manipulate waitlists, bookings, or reviews through deception.
+
+#### Coupon misuse
+- Attempting to use coupons that are not assigned to you (unless explicitly offered for public use).
+- Sharing, selling, or buying coupon codes intended to be account-specific.
+- Attempting to bypass coupon limits (expiry dates, usage limits, single-use restrictions) or exploit bugs to receive repeated discounts.
+
+#### Registration and payment manipulation
+- Creating multiple pending registrations/bookings to block capacity.
+- Attempting to avoid payment obligations through misuse of pending-payment holds.
 
 ### 2.3 Illegal or Dangerous Activities
 - Organizing or encouraging violence, self-harm, or illegal activities.
@@ -78,7 +87,7 @@ Players must:
 ## 7. Reporting & Support
 If you witness or experience violations:
 
-> Email: **support@gamematch.app**  
+> Email: **nallataifeh@gmail.com**  
 > In-app: Use the “Report” option where available or contact support via settings.
 
 Provide relevant details such as session ID, time, screenshots, or messages. We review urgent safety issues within **24 hours**.

@@ -49,7 +49,7 @@ We do **not** use third-party advertising networks or sell tracking data to adve
 
 ### 3.2 In-App Controls
 - Opt in/out of push notifications through in-app settings or device notification preferences.
-- Request deletion of your account and associated analytics data by contacting **support@gamematch.app**.
+- Request deletion of your account and associated analytics data by contacting **nallataifeh@gmail.com**.
 
 ### 3.3 Apple App Tracking Transparency (ATT)
 - We currently do **not** use third-party tracking that requires ATT opt-in. If this changes, the App will display the system prompt requesting your permission before tracking across third-party apps or websites.
@@ -75,7 +75,7 @@ We may update this Tracking & Analytics Policy to reflect new technologies or re
 For questions about tracking, analytics, or your choices, contact:
 
 > Game Match Privacy Team  
-> Email: **support@gamematch.app**
+> Email: **nallataifeh@gmail.com**
 
 ---
 
